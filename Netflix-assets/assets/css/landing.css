@@ -1,11 +1,12 @@
-.body{
-    background-color: #141414;
-    overflow:-x: hidden;
+.body {
+   /* background-color: #141414;*/
+    overflow-x: hidden;
     position: relative;
 }
 
 
-.netflix-navbar{
+.netflix-navbar {
+  /*   background-color: black; */
     position: fixed;
     width: 100vw;
     z-index: 1000;
