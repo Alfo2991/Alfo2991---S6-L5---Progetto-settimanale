@@ -1,0 +1,18 @@
+@media(max-width:767398px){
+    .navbar-brand img{
+        width: 43px;
+    }
+}
+
+
+.netflix-padding-left {
+    padding-left: 57px !important;
+}
+
+.netflix-padding-right {
+    padding-right: 57px !important;
+}
+
+.netflix-dropdow-box{
+    display: block !important;
+}
